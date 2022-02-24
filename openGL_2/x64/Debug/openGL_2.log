@@ -1,0 +1,12 @@
+﻿  IndexBuffer.cpp
+  2D Mesh.cpp
+  Rectangle.cpp
+  Sierpinsky.cpp
+D:\VisualCProjects\openGL_2\openGL_2\src\Geometry\2 Dimensional\Sierpinsky.cpp(40,35): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\VisualCProjects\openGL_2\openGL_2\src\Geometry\2 Dimensional\Sierpinsky.cpp(41,41): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+D:\VisualCProjects\openGL_2\openGL_2\src\Geometry\2 Dimensional\Sierpinsky.cpp(49,42): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+D:\VisualCProjects\openGL_2\openGL_2\src\Geometry\2 Dimensional\Sierpinsky.cpp(50,48): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  Triangle.cpp
+  application.cpp
+  Generating Code...
+  openGL_2.vcxproj -> D:\VisualCProjects\openGL_2\x64\Debug\openGL_2.exe
