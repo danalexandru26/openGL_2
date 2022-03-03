@@ -10,8 +10,8 @@ Rectangle::Rectangle(glm::vec3& center, float height, float width)
 	{
 	   -x, -y, 0.0f,
 	   -x,  y, 0.0f,
-		x,  y, 0.0f,
-		x, -y, 0.0f
+	    x,  y, 0.0f,
+	    x, -y, 0.0f
 	};
 
 	unsigned int indices[] =
